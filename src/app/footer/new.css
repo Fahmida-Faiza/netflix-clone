@@ -1,0 +1,49 @@
+/* footer */
+/* .copyright {
+    background:red;
+} */
+
+/* .copyright p,
+.copyright a {
+    color: white;
+    text-align: center;
+} */
+
+/* .col{
+    display: flex;
+    border: 2px solid pink;
+} */
+
+.btn {
+    color:white;
+
+}
+
+
+.foot{
+    text-align: center;
+}
+.col {
+    /* display: flex; */
+    columns: 50px 4;
+    /* border: 2px solid pink; */
+      /* column-count: 5; */
+}
+
+
+.last {
+    background-color: black;
+    color: white;
+    padding: 30px;
+   
+    /* height: 75vh; */
+    /* border: 2px solid red; */
+
+}
+
+.last a {
+    text-decoration: none;
+    color: white;
+    line-height: 2;
+}
+
